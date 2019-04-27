@@ -56,7 +56,6 @@ int main(){
 		}
 		
 		loop = set.isConnected(0, (total - 1));
-		std::cout << loop << endl;
 	}
 	
 	std::cout << "The maze is built. Exiting program...\n\n\n";
